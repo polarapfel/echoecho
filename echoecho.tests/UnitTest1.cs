@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace echoecho.tests
+namespace EchoEcho.Tests
 {
     public class UnitTest1
     {
